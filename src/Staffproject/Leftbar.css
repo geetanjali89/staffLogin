@@ -1,0 +1,18 @@
+.leftlist {
+    width: 20%;
+    height: 581px;
+    position: absolute;
+    text-align: center;
+}
+.rgt{
+    width: 200%;
+    left: 180%;
+    top: 21%;
+    position: absolute;
+}
+.cal {
+    width: 60%;
+    top: 50%;
+    left: 25%;
+    position: absolute;
+}

@@ -1,0 +1,10 @@
+.btn_log{
+    position: absolute;
+    right: 2%;
+}
+.addbtn {
+    bottom: 5%;
+    left: 35%;
+    position: absolute;
+    background-color: #1bac91;
+}

@@ -1,0 +1,10 @@
+.member{
+    font-size: 90px;
+    text-align: center;
+}
+.modbox{
+    width: 400px;
+    top: 50px;
+    left: 35%;
+    position: absolute;
+}
